@@ -1,4 +1,5 @@
-# HAX The Weeb
+The web needs more moonshots bent on improving the web for everyone. This is one of those.
+# Get involved
 
 - Join HAX on Discord - https://discord.gg/EKYJAjqGhf
 - Install HAX on Reclaim.cloud -- https://youtu.be/zmext_0e4xQ
