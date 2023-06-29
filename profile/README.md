@@ -41,7 +41,8 @@ The web needs more moonshots bent on improving the web for everyone. This is one
  - https://oer.hax.psu.edu/bto108/sites/ist210/
  - https://oer.hax.psu.edu/bto108/sites/ist402/
 - We have ~50 more courses beyond these but are PSU auth'ed
-- https://see.fire.x.vmhost.psu.edu/bto108/sites/dart100notion-2 - Course imported from Notion via URL reference (available in next release)
+- [https://oer.hax.psu.edu/bto108/sites/dart100notion/](https://oer.hax.psu.edu/bto108/sites/dart100notion/) - Course imported from Notion via URL reference
+- 
 - https://openpublishing.psu.edu/digital-beaumont-fletcher-about-project  EDITIONS section (running HAX + 11ty)
 - hax.psu.edu - PaaS instance (HAXiam) for any PSU member
 
