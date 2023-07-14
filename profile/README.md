@@ -89,9 +89,9 @@ The web needs more moonshots bent on improving the web for everyone. This is one
 - https://hax.psu.edu - Platform as a service - hooked into Azure AD
 
 ### Install on your own stuff (or Reclaim cloud / hosting)
-- HAXcms 7.0.3 - https://github.com/elmsln/haxcms/tree/7.0.3
+- HAXcms 7.0.15 - https://github.com/elmsln/haxcms/tree/7.0.15
 - https://reclaim.cloud
-- working on https://reclaimhosting.com soon (bug them :) it's a minor fix!)
+- working on https://reclaimhosting.com 
 - HAXiam - PaaS HAXcms https://github.com/elmsln/haxiam
 - HAX11ty - https://github.com/elmsln/hax11ty
 
