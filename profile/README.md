@@ -1,8 +1,16 @@
-The web needs more moonshots bent on improving the web for everyone. This is one of those.
-# Get involved
+The web needs more moonshots bent on improving the web for everyone. This is one of those. Write HTML without realizing it, in a highly semantic, forever format that never breaks, won't need maintained, and yet is easy to use. Let's unlock creativity and self expression for all users, regardless of technical ability.
 
-- Join HAX on Discord - https://discord.gg/EKYJAjqGhf
-- Install HAX on Reclaim.cloud -- https://youtu.be/zmext_0e4xQ
+# HAX
+The authoring experience of HAX and the ability to make fast, static file backed websites rapidly.
+Get all the details you want on [HAXTheWeb.org](https://haxtheweb.org/haxcms-1)!
+HAX seeks to be the smallest possible back-end CMS to make HAX work and be able to build websites with it. Leveraging JSON Outline Schema, HAX is able to author multiple pages, which it then writes onto the file system. This way a slim server layer is just for basic authentication, knowing how to save files, and placing them in version control.
+
+Watch and Read more about HAX here: https://oer.hax.psu.edu/bto108/sites/haxcellence/what-is-hax
+
+# Issues / Support / Community
+- Discord Channel - https://bit.ly/hax-discord
+- Unified issue queue - https://github.com/elmsln/issues/issues
+- Using Merlin directly in any HAX spaces and type "Issue" to jump start a report!
 
 # Everything you need to get others interested
 
